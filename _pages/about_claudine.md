@@ -1,0 +1,1 @@
+Research assistant professor at the University of Alaska Fairbanks. Her research focuses on ocean acidification and carbon cycle dynamics and uses a combination of observations and biogeochemical models to understanding change in coastal systems.
