@@ -1,0 +1,1 @@
+Research assistant professor at the University of Alaska Fairbanks. His work includes fieldwork, laboratory analysis and computer modeling, specifically the integration of multiple data sources into unified models.
