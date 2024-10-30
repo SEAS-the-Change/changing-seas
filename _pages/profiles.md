@@ -15,30 +15,35 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>tbkelly@alaska.edu</p>
+
   - align: left
     image: other_assets/laura-whitmore.jpg
     content: about_laura.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>lmwhitmore@alaska.edu</p>
+
   - align: right
     image: other_assets/hennon-tyler-4x5-1.jpg
     content: about_tyler.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>tdhennon@alaska.edu</p>
+
   - align: left
     image: other_assets/ClaudineHauri1.jpg
     content: about_claudine.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>chauri@alaska.edu</p>
+
   - align: right
     image: other_assets/mordy_sm.jpg
     content: about_cal.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
+      
   - align: left
     image: other_assets/JMN_picNOAA.jpg
     content: about_jens.md
