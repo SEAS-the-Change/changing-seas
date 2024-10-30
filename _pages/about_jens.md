@@ -1,0 +1,1 @@
+Staff researcher at NOAA. His research seeks to understand how chemical, physical and biological factors influence the functioning of ecosystems, and how ecological research can inform ecosystem management.
