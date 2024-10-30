@@ -1,0 +1,1 @@
+Research assistant professor at the International Arctic Research Center (IARC). Her current research focuses on understanding geochemical transformations in sea ice, and the interplay between the water column and sea ice, during the spring melt by collecting, analyzing, and interpreting nutrient and trace element data in the Arctic.
