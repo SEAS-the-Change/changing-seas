@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-29 00:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Today is the start of the annual [Pacific Artic Group](https://pag.arcticportal.org/) meeting!
